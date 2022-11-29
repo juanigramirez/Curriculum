@@ -100,5 +100,9 @@ body {
     display: none;
   }
 
+@media (max-width: 600px){
+    footer: 640px
+
+    
 
 
